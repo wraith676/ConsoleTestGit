@@ -12,6 +12,8 @@ namespace ConsoleTestGit
         {
             Console.WriteLine("Hello World");
             Console.ReadKey();
+            Console.WriteLine("This is the change i want to make");
+            Console.ReadKey();
         }
     }
 }
